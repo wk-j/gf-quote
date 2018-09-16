@@ -1,6 +1,7 @@
 ## Show GreatFriends's Quote
 
 [![Build Status](https://dev.azure.com/wk-j/gf-quote/_apis/build/status/wk-j.gf-quote)](https://dev.azure.com/wk-j/gf-quote/_build/latest?definitionId=8)
+![](https://img.shields.io/nuget/v/wk.GfQuote.svg)
 
 https://greatfriends06.azurewebsites.net/api/quotes
 
